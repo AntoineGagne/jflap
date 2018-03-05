@@ -20,7 +20,7 @@ main() {
          -Dsun.java2d.opengl=true \
          -Dsun.io.useCanonCaches=false \
          -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine \
-         -jar /opt/jflap/lib/jflap.jar
+         -jar /opt/jflap/bin/jflap.jar
 }
 
 main
